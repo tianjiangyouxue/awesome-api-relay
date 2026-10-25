@@ -25,6 +25,7 @@ API 中转站从 Anthropic/OpenAI/Google 等官方渠道批量采购 API 额度�
 | UU API | uuapi.net | Claude/GPT/Gemini | 支付宝/微信 | 双支付通道 |
 | unity2 | unity2.ai | Claude/GPT | 支付宝/微信/对公 | 企业级 |
 | 硅基流动 | siliconflow.cn | DeepSeek/GLM/Qwen | 支付宝/微信/对公 | 国产正规平台 |
+| Twinkle Model | big-model.smart-agi.com | GPT/Claude/Grok/GLM/DeepSeek/Kimi | 支付宝 | sub2api，官方订阅渠道，¥1起充可开票 |
 
 > 完整 36 站列表和实时检测数据 → [Token雷达](https://www.tokenpeg.cn)
 
